@@ -6,6 +6,10 @@ Badges
 - [![CircleCI](https://circleci.com/gh/F88/tst/tree/publish.svg?style=svg)](https://circleci.com/gh/F88/tst/tree/publish) [publish](https://github.com/F88/tst/tree/publish)
 - [![CircleCI](https://circleci.com/gh/F88/tst/tree/develop.svg?style=svg)](https://circleci.com/gh/F88/tst/tree/develop) [develop](https://github.com/F88/tst/tree/develop)
 
+## [Travis CI](https://travis-ci.com/)
+
+- [![Build Status](https://travis-ci.com/s6f/tst.svg?branch=master)](https://travis-ci.com/s6f/tst) [master](https://github.com/F88/tst/tree/master)
+
 
 ## [FOSSA](https://app.fossa.io/)
 
