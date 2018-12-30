@@ -1,0 +1,25 @@
+{
+  "name": "tst",
+  "version": "0.0.1",
+  "description": "Badges",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szf5/tst.git"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/szf5/tst/issues"
+  },
+  "homepage": "https://github.com/szf5/tst#readme",
+  "devDependencies": {
+    "eslint": "^5.11.1"
+  }
+}
