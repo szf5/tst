@@ -92,3 +92,10 @@ resource "aws_s3_bucket" "logs" {
     Environment = local.resource_prefix.value
   }
 }
+
+#test modules
+module "s3_bucket" {
+  source                               = "/s3_module"
+  bucket                          = var.bucket
+  acl                             = var.acl_value
+}
