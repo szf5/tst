@@ -1,9 +1,9 @@
 variable "bucket" {
-  type        = "string"
+  type        = string
   default     = "generic_name"
 }
 
 variable "acl" {
-  type        = "string"
+  type        = string
   default = "public-read"
 }
