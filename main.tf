@@ -60,7 +60,7 @@ resource "aws_s3_bucket" "operations" {
   
   # bucket is not encrypted
   # bucket does not have access logs
-  bucket = "${local.resource_prefix.value}-operations"
+  bucket = "operations"
   acl    = "private"
   versioning {
     enabled = true
