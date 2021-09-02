@@ -110,7 +110,7 @@ resource "aws_s3_bucket" "logs" {
 
 #test modules
 module "s3_bucket" {
-  source                               = "/s3_module"
+  source                               = "./s3_module"
   bucket                          = var.bucket
   acl                             = var.acl_value
 }
