@@ -1,3 +1,7 @@
+provider "aws" {
+  region = "us-east-1"
+}
+
 #Random for TFC 
 resource "random_id" "random" {
   keepers = {
