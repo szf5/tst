@@ -1,0 +1,3 @@
+rootProject.name = 'project-x'
+
+include 'sub-a', 'sub-b'
