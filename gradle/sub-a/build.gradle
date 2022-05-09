@@ -1,0 +1,13 @@
+repositories {
+    mavenCentral()
+}
+
+configurations {
+    someConfiguration
+    config2
+}
+
+dependencies {
+    someConfiguration 'org.eclipse.jgit:org.eclipse.jgit:4.9.2.201712150930-r'
+    someConfiguration 'org.springframework.boot:spring-boot-starter-aop:2.5.5'
+}
